@@ -1,0 +1,30 @@
+.card-container{
+    width: 20vw;
+    height: 50vh;
+    border: 1px solid #CDCDCD;
+    box-shadow: #CDCDCD 0px 0px 10px; 
+    margin-right: 16px;
+    .img{
+        width: 100%;
+        height: 30vh;
+    }
+    .wrapper{
+        width: 80%;
+        height: 16vh;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        .p1{
+            font-size: 14px;
+            font-weight: bold;
+        }
+        .p2{
+            font-size: 12px;
+            color: #CDCDCD;
+        }
+        .p3{
+            text-align: right;
+        }
+    }
+}

@@ -1,0 +1,27 @@
+.bg_gray{
+  background: #EFF0F4;
+}
+
+.bg_white{
+  background-color: #ffffff;
+}
+
+.bg_blue{
+  background-color: #1890FF;
+}
+
+.font_blue{
+  color: #1890FF;
+}
+
+.font_white{
+  color: #ffffff;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.border{
+  border-radius: 10px;
+}

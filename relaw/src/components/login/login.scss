@@ -1,0 +1,30 @@
+.login_form{
+    width: 400px;
+    height: 430px;
+    padding-right: 50px;
+    padding-top: 20px;
+    h1{
+        font-size: 32px;
+    }
+    .ant-input{
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        line-height: 5;
+    }
+    .ant-input:focus {
+        box-shadow: none;
+    }
+    .login_button{
+        width: 100%;
+        height: 46px;
+    }
+    
+    .login_addition{
+        padding-top: 10px;
+        font-size: 12px;
+        .font_blue{
+            cursor:pointer
+        }
+    }
+}

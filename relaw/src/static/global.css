@@ -1,0 +1,36 @@
+.flex{
+    display: flex;
+}
+
+.grow{
+    flex-grow: 1;
+}
+
+.center{
+    justify-content: center;
+    align-items: center;
+}
+
+.between{
+    justify-content: space-between;
+}
+
+.around{
+    justify-content: space-around;
+}
+
+.center_column{
+    align-items: center;
+}
+
+.center_row{
+    justify-content: center;
+}
+
+.direction_column{
+    flex-direction: column;
+}
+
+.shadow{
+    box-shadow: 0 0 6px #dad4d491;
+}

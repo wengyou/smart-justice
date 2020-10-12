@@ -1,0 +1,29 @@
+.user-container{
+    min-height: 90vh;
+    width: 68vw;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    .user-wrapper{
+        display: flex;
+        .title{
+            font-size: 30px;
+            font-weight: bold;
+            color: grey;
+            margin-top: 20px;
+        }
+        .userMes{
+            border-left: 8px solid #4169E1;
+            margin-top: 20px;
+            width: 100px;
+            text-align: center;
+        }
+    }
+    .btn-wrapper{
+        width: 30vw;
+        height: 10vh;
+        margin: 30vh auto;
+        display: flex;
+        justify-content: space-between;
+    }
+}

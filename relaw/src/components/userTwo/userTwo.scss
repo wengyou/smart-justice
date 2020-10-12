@@ -1,0 +1,26 @@
+.userTwo-container{
+    min-height: 50vh;
+    width: 68vw;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    .userTwo-wrapper{
+        display: flex;
+        .title{
+            font-size: 30px;
+            font-weight: bold;
+            color: grey;
+            margin-top: 20px;
+        }
+        .userMes{
+            border-left: 8px solid #4169E1;
+            margin-top: 20px;
+            width: 100px;
+            text-align: center;
+        }
+    }
+    .btn{
+        width: 10vw;
+        margin: 100px auto;
+    }
+}

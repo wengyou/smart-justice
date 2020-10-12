@@ -1,0 +1,17 @@
+.case-container{
+    width: 40vw;
+    height: 30vh;
+    margin: 20px auto;
+    .title{
+        font-size: 20px;
+        text-align: center;
+        font-weight: bold;
+        padding-top: 20px;
+    }
+    .input{
+        margin-top: 30px;
+    }
+    .btn{
+        margin: 40px 15vw;
+    }
+}

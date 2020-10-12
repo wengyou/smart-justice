@@ -1,0 +1,22 @@
+.dispute-container{
+    min-height: 90vh;
+    .upload{
+        width: 55%;
+        margin: 0 auto;
+        padding-top: 20px;
+    }
+    .content{
+        width: 80%;
+        margin: 10px auto;
+        display: flex;
+        justify-content: space-between;
+    }
+    .select{
+        width: 90%;
+        margin: 20px auto;
+    }
+    .see{
+        margin-left: 63vw;
+        margin-bottom: 3vh;
+    }
+}

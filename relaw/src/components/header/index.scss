@@ -1,0 +1,44 @@
+.header{
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+    padding-left: 20px;
+    font-size: 20px;
+    display: flex;
+    .eSpace{
+        margin-left: 30vw;
+        font-size: 14px;
+        font-weight: normal;
+        cursor: pointer;
+    }
+    .pSpace{
+        margin-left: 2vw;
+        font-size: 14px;
+        font-weight: normal;
+        cursor: pointer;
+    }
+}
+
+.header_wrap{
+    .header_img{
+        width: 271px;
+        height: 162px;
+        margin-bottom: 20px;
+    }
+}
+
+.modal_img{
+    width: 233px;
+    height: 180px;
+}
+
+.modal_title{
+    padding: 5px 0;
+    margin-bottom: 20px;
+    width: 100%;
+    font-size: 14px;
+    background-color: #E6F7FF;
+}
+
+.modal_button{
+    width: 100%;
+}

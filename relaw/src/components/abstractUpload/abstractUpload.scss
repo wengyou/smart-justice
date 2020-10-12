@@ -1,0 +1,25 @@
+.abstract-container{
+    min-height: 90vh;
+    .upload{
+        width: 55%;
+        margin: 0 auto;
+        padding-top: 20px;
+    }
+    .content{
+        width: 80%;
+        margin: 10px auto;
+        display: flex;
+        justify-content: space-between;
+    }
+    .more{
+        text-align: right;
+        margin-top: 40px;
+        color: #0099FF;
+        margin-right: 30px;
+        cursor: pointer;
+    }
+    .same{
+        margin-left: 62vw;
+        margin-top: 4vh;
+    }
+}

@@ -1,0 +1,32 @@
+.disputeDeatil-container{
+    .title{
+        font-size: 28px;
+        color: #696969;
+        margin: 0 0 2vh 4vw;
+        padding-top: 4vh;
+    }
+    .table{
+        width: 80%;
+        margin: 0 auto;
+        border: 0.5px dashed #CDCDCD;
+    }
+    .result{
+        width: 90%;
+        height: 60px;
+        border: 0.5px solid #CDCDCD;
+        margin: 6vh auto;
+        background-color: #e6f7ff;
+        text-indent: 1em;
+        line-height: 60px;
+    }
+    .footer{
+        width:72vw;
+        display: flex;
+        justify-content: space-between;
+        margin-left: 1vw;
+        margin-bottom: 2vh;
+        .advise{
+            color: #ff6161;
+        }
+    }
+}

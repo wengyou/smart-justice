@@ -1,0 +1,13 @@
+.helper-container{
+    width: 100%;
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    .chat{
+        width: 90%;
+        height: 66vh;
+        margin: 0 auto;
+        border-bottom: 1px solid #DCDCDC;
+    }
+}
